@@ -1,0 +1,6 @@
+logs/
+venv/
+*.db
+*.log
+__pycache__/
+*.generated
